@@ -1,16 +1,16 @@
- 
+![image](github.svg)
 
-# <span style="color: #2d9296;"> Olá, meu nome é Vitor Araújo!</span>
+![image](github2.svg)
+![image](github1.jpg)
 
-## <span style="color: #2d9296;">⚙️ Estatísticas GitHub</span>
 
-<div align="center">
-  <a href="https://github.com/vitor0dev">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=vitor0dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor0dev&layout=compact&langs_count=7&theme=dark"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vitor0dev&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=2d9296&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor0dev&layout=compact&hide_border=true&title_color=2d9296&text_color=2d9296&bg_color=0d1117" />
 </div>
 
 ## <span style="color: #2d9296;">🚀 Minhas Tecnologias</span>
+
   
 <div style="display: inline_block">
 
