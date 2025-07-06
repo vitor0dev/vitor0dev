@@ -20,7 +20,7 @@
 
 <hr>
 
-<div style="display: inline_block">
+<div>
   <a href="https://www.instagram.com/vituaraujo1">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
