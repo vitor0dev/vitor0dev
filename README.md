@@ -1,4 +1,10 @@
-## Hi there 👋
+# Olá! 👋
+
+Eu sou o Vitor Araújo, estudante de Ciência da Computação.
+
+- 🌱 Focado em desenvolvimento web
+- 💼 Buscando meu primeiro estágio em tech
+- 📫 Contato: vitorgabrielthx@email.com 
 
 <!--
 **vitor0dev/vitor0dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
