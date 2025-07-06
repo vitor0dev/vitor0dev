@@ -1,16 +1,15 @@
-![image](github.svg)
+![image](text1.svg)
 
-![image](github2.svg)
-![image](github1.jpg)
-
+<hr>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vitor0dev&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=2d9296&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats"/> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor0dev&layout=compact&hide_border=true&title_color=2d9296&text_color=2d9296&bg_color=0d1117" />
 </div>
 
-## <span style="color: #2d9296;">🚀 Minhas Tecnologias</span>
+<hr>
 
+![Minhas Tecnologias](text2.svg)
   
 <div style="display: inline_block">
 
