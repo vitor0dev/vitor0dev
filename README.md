@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&weight=700&size=30&pause=1000&color=2D9296&width=435&lines=Olá,+meu+nome+é+Vitor+Araújo!;Bem+vindo+ao+meu+github!;%3A))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&weight=700&size=30&pause=1000&color=2D9296&width=435&lines=Olá,+meu+nome+é+Vitor+Araújo!;Bem+vindo+ao+meu+GitHub!;%3AD)](https://git.io/typing-svg)
+
 
 
 <div align="center">  
