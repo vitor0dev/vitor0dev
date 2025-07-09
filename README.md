@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&weight=700&size=30&pause=1000&color=2D9296&width=435&lines=Olá,+meu+nome+é+Vitor+Araújo!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&weight=700&size=30&pause=1000&color=2D9296&width=435&lines=Olá,+meu+nome+é+Vitor+Araújo!;Bem+vindo+ao+meu+github!;%3A))](https://git.io/typing-svg)
+
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vitor0dev&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=2d9296&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats"/> 
